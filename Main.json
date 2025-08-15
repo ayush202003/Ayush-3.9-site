@@ -1,11 +1,11 @@
 {
   "serverstatus": "true",
-  "noticemode": "false",
+  "noticemode": "true",
   "dataclearmode": "false",
   "servermeassage": "Under Maintenance",
   "opentime": "Tomorrow 11AM",
-  "libs": "https://github.com/ayush202003/Ayush-3.9-site/raw/refs/heads/main/libAyusWh.so",
+  "libs": "https://github.com/ayush202003/Ayush-3.9-site/raw/refs/heads/main/libAyusWh3.so",
   "notice_title": "Update Notice",
-  "notice_body": "Server Is Updated..Clear Data And Download Fresh Data , Than Use Main Account Safe..",
+  "notice_body": "VIP Server Is Updated..Clear Data And Download Fresh Data , Than Use Main Account Safe..",
   "floatingtext": "🔥 Developer >@GX_KINGXX - VIP SERVER 🔥 "
 }
