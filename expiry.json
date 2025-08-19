@@ -1,6 +1,6 @@
 {
-  "expiry_date": "2025-08-25",
-  "title": "Application Expired",
-  "message": "This application has expired. Please renew your key to continue..."
+  "expiry_date": "2025-12-31",
+  "dialog_title": "App Expired",
+  "message": "This app is expired. Please renew!",
+  "floating_title": "Developer: Ayushhhh"
 }
-
