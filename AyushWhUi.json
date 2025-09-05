@@ -5,11 +5,13 @@
   "telegram": "https://t.me/GX_KINGXX",  
   "app_name": "GX KING VIP X64 Arm",
   "floating_text": "",
-  "anti_status": true,
+
 
   "tg_link": "https://t.meGX_KINGXX",
   "mod_owner": "Mod Owner : @GX_KINGXX",
   "developer": "Developer : @GX_KINGXX",
   "buy_key_link": "https://t.me/yourBuyKeyBot",
-  "contact_owner_link": "https://t.me/yourContactOwner"
+  "contact_owner_link": "https://t.me/yourContactOwner",
+    "anti_status": true
+
 }
