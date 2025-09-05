@@ -1,5 +1,6 @@
 {
   "pak_url": "https://raw.githubusercontent.com/ayush202003/Ayush-3.9-site/refs/heads/main/game_patch_3.9.0.20178.pak",
   "pak_name": "game_patch_3.9.0.20178.pak",
-  "pak_version": "3.9.0.20178"
+  "pak_version": "3.9.0.20178",
+  "anti_status": true
 }
