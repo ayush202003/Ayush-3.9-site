@@ -2,7 +2,7 @@
   "libs": [
     {
       "name": "libitsayush.so",
-      "url": "https://raw.githubusercontent.com/ayush202003/Ayush-3.9-site/refs/heads/main/libitsayush.so"
+      "url": "https://github.com/ayush202003/Ayush-3.9-site/refs/heads/main/libitsayush.so"
     },
     {
       "name2": "libexample2.so",
