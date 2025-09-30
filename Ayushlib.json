@@ -1,16 +1,16 @@
 {
   "libs": [
     {
-      "name": "libexample1.so",
-      "url": "https://github.com/yourusername/yourrepo/releases/download/v1.0/libexample1.so"
+      "name": "libitsayush.so",
+      "url": "https://raw.githubusercontent.com/ayush202003/Ayush-3.9-site/refs/heads/main/libitsayush.so"
     },
     {
-      "name": "libexample2.so",
-      "url": "https://github.com/yourusername/yourrepo/releases/download/v1.0/libexample2.so"
+      "name2": "libexample2.so",
+      "url2": "https://github.com/yourusername/yourrepo/releases/download/v1.0/libexample2.so"
     },
     {
-      "name": "config.json",
-      "url": "https://github.com/yourusername/yourrepo/releases/download/v1.0/config.json"
+      "name3": "config.json",
+      "url3": "https://github.com/yourusername/yourrepo/releases/download/v1.0/config.json"
     }
   ]
 }
